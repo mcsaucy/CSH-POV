@@ -1,0 +1,3 @@
+LUST, or Light-Up Spinning Thing, is a persistence of vision (POV) project using LEDs and an Atmel ATMEGA 168 microcontroller. LUST creates a full two-dimensional display using only a rotating arm and a column of LEDs. Previously implemented with the Arduino stack, LUST is now written is AVR C. LUST now supports full 24-bit color, dynamic delay calculation to minimize text scrolling while spinning and wireless message updating on the fly as facilitated by Xbee wireless serial modules.
+
+
